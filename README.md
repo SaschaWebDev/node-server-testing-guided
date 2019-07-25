@@ -2,6 +2,10 @@
 
 Guided project for **Node Server Testing** Module.
 
+## Author
+
+Sascha Majewsky
+
 ## Project Setup
 
 - [ ] fork and clone this repository.

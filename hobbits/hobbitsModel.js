@@ -9,7 +9,8 @@ module.exports = {
 };
 
 async function insert(hobbit) {
-  return null;
+  //return the id after insertion
+  return db('hobbits').insert(hobbit, 'id');
 }
 
 async function update(id, changes) {
